@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/131757147-3fb690b5-deec-4c53-9f4c-c5a4527c5601.png" align="left" height="150px" width="150px">
+    <h1># Criando um front-end totalmente componentizado na prática com ReactJS</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Agora é a sua hora! Crie uma solução com React que explore os conceitos apresentados nesse Desafio de Projetos. Para isso, você pode reproduzir a aplicação criada pelo expert ou, caso se sinta preparado, desenvolver algo do zero. Dica: você pode dar um "fork" no repositório disponibilizado pelo expert para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.
     </p>
 </p>      
 
